@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "361531006582",
+    "project_id": "intellitechacademy",
+    "storage_bucket": "intellitechacademy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361531006582:android:4b1ace933f4b2d08334957",
+        "android_client_info": {
+          "package_name": "com.mukisasamuel.intellitechacademy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361531006582-i2ugq4anl5oomp17q5imel7f1vg0p0o1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEhar_l1wJkuXsrnLIyfYQ2IyTYZpYCQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361531006582-i2ugq4anl5oomp17q5imel7f1vg0p0o1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
